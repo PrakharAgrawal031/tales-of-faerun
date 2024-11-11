@@ -7,7 +7,7 @@ Tales of Faerun is an exciting 2D top-down RPG that immerses players in a rich f
 To play Tales of Faerun, follow these steps:
 
 1. **Download the Game:**
-   - Download the `Tales of Faerun.rar` file from the provided link. [Download Tales of Faerun](https://github.com/PrakharAgrawal031/tales-of-faerun/blob/main/Tales%20of%20Faerun.rar)
+   - Download the `Tales of Faerun.rar` file from the provided link. [Download Tales of Faerun](https://github.com/PrakharAgrawal031/tales-of-faerun/raw/refs/heads/main/Tales%20of%20Faerun.rar)
 
 2. **Extract the Files:**
    - Extract the contents of the `Tales of Faerun.rar` file to a location of your choice on your computer.
