@@ -18,7 +18,6 @@ To play Tales of Faerun, follow these steps:
 
 ## Features
 
-- **Engaging Storyline:** Immerse yourself in a captivating narrative set in the world of Faerun.
 - **Dynamic Combat System:** Experience thrilling battles with various enemies and bosses.
 - **Exploration:** Discover hidden treasures, quests, and secrets throughout the game world.
 - **Character Progression:** Level up your character and unlock new abilities and skills.
@@ -26,7 +25,6 @@ To play Tales of Faerun, follow these steps:
 ## Requirements
 
 - Windows Operating System
-- .NET Framework (if required)
 
 ## Troubleshooting
 
